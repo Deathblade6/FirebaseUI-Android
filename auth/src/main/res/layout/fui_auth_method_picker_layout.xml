@@ -47,6 +47,7 @@
             android:id="@+id/btn_holder"
             style="@style/FirebaseUI.AuthMethodPicker.ButtonHolder"
             android:gravity="bottom"
+            android:orientation="horizontal"
             tools:background="#bfbfbf"
             tools:layout_height="250dp" />
 
